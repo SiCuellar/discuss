@@ -1,4 +1,5 @@
 # Discuss
+Discuss is a small web app that allows users to talk about computer science languages. It uses Github OAuth for user registration. 
 
 To start your Phoenix server:
 
