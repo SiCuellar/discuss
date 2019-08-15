@@ -1,5 +1,5 @@
 # Discuss
-Discuss is a small web app that allows users to talk about computer science languages. It uses Github OAuth for user registration. 
+Discuss is a small web app that allows users to talk about computer science languages. It uses Github OAuth for user registration.
 
 To start your Phoenix server:
 
@@ -13,7 +13,6 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
 ## Learn more
-
   * Official website: http://www.phoenixframework.org/
   * Guides: https://hexdocs.pm/phoenix/overview.html
   * Docs: https://hexdocs.pm/phoenix
